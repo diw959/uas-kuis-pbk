@@ -1,5 +1,6 @@
 # uas-kuis
-
+Nama  : Husnul Amin
+NPM  : 183510934
 ## Project setup
 ```
 npm install
